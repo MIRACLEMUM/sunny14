@@ -37,6 +37,17 @@ body {
     border-radius: 20px;
     font-size: 16px;
 }
+/* Mic icon styling */
+.mic-icon {  
+      display: flex;
+      align-items: center;  
+      padding-left: 10px;
+      color: #5f6368;  
+      cursor: pointer;
+    }
+.mic-icon:hover {
+    color: #1a73e8;
+}
 
 .icons {
     display: grid;
